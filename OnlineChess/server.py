@@ -7,7 +7,7 @@ num_to_figure = {
     1: 'Rook',
     2: 'Knight',
     3: 'bishop',
-    4: 'King',
+    4: 'Queen',
     5: 'King',
     6: 'Pawn',
 }
